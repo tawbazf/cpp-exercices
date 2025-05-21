@@ -8,7 +8,7 @@
  case 1:
   cout<<" Janvier"; break;
 case 2:
-  cout>>" février"; break;
+  cout<<" février"; break;
 case 3:
   cout<<" Mars";   break;
 case 4:
